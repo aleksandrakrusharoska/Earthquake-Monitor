@@ -1,0 +1,17 @@
+C:\Users\User\Downloads\earthquake-app\earthquake-app\backend\src\main\java\mk\codeit\earthquake\domain\model\EarthquakeFactory.java
+C:\Users\User\Downloads\earthquake-app\earthquake-app\backend\src\main\java\mk\codeit\earthquake\service\EarthquakeService.java
+C:\Users\User\Downloads\earthquake-app\earthquake-app\backend\src\main\java\mk\codeit\earthquake\domain\exception\UsgsApiException.java
+C:\Users\User\Downloads\earthquake-app\earthquake-app\backend\src\main\java\mk\codeit\earthquake\web\controller\EarthquakeController.java
+C:\Users\User\Downloads\earthquake-app\earthquake-app\backend\src\main\java\mk\codeit\earthquake\service\impl\EarthquakeServiceImpl.java
+C:\Users\User\Downloads\earthquake-app\earthquake-app\backend\src\main\java\mk\codeit\earthquake\EarthquakeApplication.java
+C:\Users\User\Downloads\earthquake-app\earthquake-app\backend\src\main\java\mk\codeit\earthquake\service\impl\UsgsApiServiceImpl.java
+C:\Users\User\Downloads\earthquake-app\earthquake-app\backend\src\main\java\mk\codeit\earthquake\config\JacksonConfig.java
+C:\Users\User\Downloads\earthquake-app\earthquake-app\backend\src\main\java\mk\codeit\earthquake\domain\exception\EarthquakeNotFoundException.java
+C:\Users\User\Downloads\earthquake-app\earthquake-app\backend\src\main\java\mk\codeit\earthquake\config\AppConfig.java
+C:\Users\User\Downloads\earthquake-app\earthquake-app\backend\src\main\java\mk\codeit\earthquake\domain\model\Earthquake.java
+C:\Users\User\Downloads\earthquake-app\earthquake-app\backend\src\main\java\mk\codeit\earthquake\domain\dto\EarthquakeDTO.java
+C:\Users\User\Downloads\earthquake-app\earthquake-app\backend\src\main\java\mk\codeit\earthquake\service\UsgsApiService.java
+C:\Users\User\Downloads\earthquake-app\earthquake-app\backend\src\main\java\mk\codeit\earthquake\web\dto\ApiResponse.java
+C:\Users\User\Downloads\earthquake-app\earthquake-app\backend\src\main\java\mk\codeit\earthquake\web\handler\GlobalExceptionHandler.java
+C:\Users\User\Downloads\earthquake-app\earthquake-app\backend\src\main\java\mk\codeit\earthquake\repository\EarthquakeRepository.java
+C:\Users\User\Downloads\earthquake-app\earthquake-app\backend\src\main\java\mk\codeit\earthquake\domain\dto\CreateEarthquakeDTO.java

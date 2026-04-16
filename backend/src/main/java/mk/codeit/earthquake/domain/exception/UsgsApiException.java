@@ -1,0 +1,11 @@
+package mk.codeit.earthquake.domain.exception;
+
+public class UsgsApiException extends RuntimeException {
+    public UsgsApiException(String message) {
+        super(message);
+    }
+
+    public UsgsApiException(String message, Throwable cause) {
+        super(message, cause);
+    }
+}
