@@ -10,13 +10,23 @@ Web application that fetches, filters, stores and displays real-time earthquake 
 
 ### Database
 
-Create a PostgreSQL database called `earthquake_db`, then check that the credentials in `application.properties` match yours:
+**Option A — Docker**
+
+```bash
+docker-compose up -d
+```
+
+**Option B — Local PostgreSQL**
+
+Create a database called `earthquake_db` and update `application.properties` if your credentials differ:
 
 ```properties
 spring.datasource.url=jdbc:postgresql://localhost:5432/earthquake_db
 spring.datasource.username=postgres
 spring.datasource.password=postgres
 ```
+
+The table is created automatically on first startup.
 
 ### Backend
 
