@@ -1,4 +1,0 @@
--------------------------------------------------------------------------------
-Test set: mk.codeit.earthquake.service.EarthquakeServiceIntegrationTest
--------------------------------------------------------------------------------
-Tests run: 12, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 5.700 s -- in mk.codeit.earthquake.service.EarthquakeServiceIntegrationTest
